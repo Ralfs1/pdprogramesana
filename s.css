@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(139, 132, 123);
+}
+
+h1 {
+    text-align: right;
+    color: rgb(255, 0, 0);
+}
+#tabula {
+    background-color: rgb(9, 255, 0) ;
+    border-style:ridge;
+    border-color:red;
+}
